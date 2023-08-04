@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuPublishText"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Text" />
+    <item
+        android:id="@+id/mnuPublishImage"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="image" />
+    <item
+        android:id="@+id/mnuClose"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="close" />
+</menu>

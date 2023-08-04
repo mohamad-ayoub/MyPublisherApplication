@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_activity_marging">0dp</dimen>
+    <dimen name="default_activity_padding">10dp</dimen>
+
+    <dimen name="default_floating_action_button_marging">16dp</dimen>
+</resources>
